@@ -1,5 +1,3 @@
-abcde
-fghijj
 klmno
 pqrst
 uvwxy
